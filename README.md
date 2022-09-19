@@ -1,2 +1,1 @@
-# miki
-Kaverin puolesta kyselen repo kaverille
+# Kaverin puolesta kyselen repo kaverille
